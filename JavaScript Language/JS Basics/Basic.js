@@ -1,7 +1,7 @@
     // javascript - Basic
     console.log("Hello World");
     // Data types in java
-    // Primitivr and non primitive
+    // Primitive and non primitive
     // Primitive     = number , string , boolean , un identified , null
     // non primitive = array , object , reg exp/regular expression
 
